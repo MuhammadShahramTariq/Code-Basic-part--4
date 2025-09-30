@@ -1,0 +1,8 @@
+your product id is:0your product quantity is:4977056your value of inventory is:8.96831e-44Product ID : 2324
+Product Quantity : 39
+Price Per Item : 45
+Your Total Value Of Inventory With Discount is : 1755
+Product ID : 4566
+Product Quantity : 456
+Price Per Item : 355
+Your Total Value Of Inventory With Discount is : 161880

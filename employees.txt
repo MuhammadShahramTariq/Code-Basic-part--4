@@ -1,0 +1,8 @@
+ID :245320	Base salary :600	Total salary :900
+ID :245320	Base salary :1900	Total salary :2280
+ID :23	Base salary :5000	Total salary :6000
+ID :245320	Base salary :3500	Total salary :4200
+ID :245320	Base salary :5433	Total salary :6519.6
+ID :3453	Base salary :35345	Total salary :42414
+ID :35345262	Base salary :2422	Total salary :2906.4
+ID :5676	Base salary :777	Total salary :1165.5
